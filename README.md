@@ -3,7 +3,7 @@
 An independent financial analysis of Casella Waste Systems, Inc. (NASDAQ: CWST) 
 built from publicly available SEC filings. This project examines the apparent 
 contradiction between Casella's strong operational growth and declining GAAP net 
-income — and explains why understanding the difference matters for evaluating 
+income, and explains why understanding the difference matters for evaluating 
 acquisition-driven companies.
 
 > **Data Source:** All figures sourced from Casella Waste Systems' 10-K Annual Report 
@@ -16,7 +16,7 @@ acquisition-driven companies.
 Casella Waste Systems is a regional, vertically integrated solid waste company 
 headquartered in Rutland, Vermont, operating across eleven states in the Northeast. 
 Since 2018, Casella has acquired 76 businesses representing over $925M in annualized 
-revenue — an aggressive land-grab strategy designed to build a dominant regional 
+revenue, quite an aggressive land-grab strategy designed to build a dominant regional 
 network before competitors can replicate it.
 
 This project analyzes whether that strategy is working, what it costs on the income 
@@ -24,7 +24,7 @@ statement, and what the numbers actually mean for the health of the business.
 
 ## The Central Analytical Question
 
-In FY2025, Casella grew revenue 18.0% and Adjusted EBITDA 17.3% — strong numbers by 
+In FY2025, Casella grew revenue 18.0% and Adjusted EBITDA 17.3%, which are strong numbers by 
 any measure. Yet GAAP Net Income fell 41.9%. How can a company grow strongly and 
 see profits collapse simultaneously?
 
@@ -103,6 +103,5 @@ variance analysis, KPI dashboard
 
 ## Data Sources
 
-- Casella Waste Systems 10-K Annual Report, FY2025 (filed February 20, 2026) 
-— SEC EDGAR
+- Casella Waste Systems 10-K Annual Report, FY2025 (filed February 20, 2026) — SEC EDGAR
 - Casella Waste Systems 8-K Earnings Release, February 19, 2026 — SEC EDGAR
