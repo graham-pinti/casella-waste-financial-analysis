@@ -1,4 +1,4 @@
-# Casella Waste Systems — Financial Analysis (CWST)
+# Casella Waste Systems: Financial Analysis (CWST)
 
 An independent financial analysis of Casella Waste Systems, Inc. (NASDAQ: CWST) 
 built from publicly available SEC filings. This project examines the apparent 
@@ -51,7 +51,7 @@ it carry?
 | D&A Expense | $234.9M | $306.8M | +30.6% |
 | Adjusted Free Cash Flow | $158.3M | $179.9M | +13.6% |
 
-**The answer to the central question:** D&A expense grew $71.9M (+30.6%) in FY2025 — 
+**The answer to the central question:** D&A expense grew $71.9M (+30.6%) in FY2025, 
 nearly 10x the decline in net income ($5.7M). This is a non-cash accounting charge 
 driven entirely by acquisition activity, not operational deterioration. The underlying 
 business is healthy. GAAP earnings are being obscured by the accounting treatment of 
